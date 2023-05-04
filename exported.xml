@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Configuration:
+<?xml version='1.0'?>
+<STEP-ProductInformation ExportDerivedAttrs="false" ResolveInlineRefs="true">
+<Products />
+</STEP-ProductInformation>
+Export from draj_pen_011
+Classifications All
+Products "draj_pen_011"
+Assets All
+
+Exported by database exporter.
+-->
+<STEP-ProductInformation ExportTime="2023-05-04 17:54:42" ExportContext="EN All All" ContextID="EN All All" WorkspaceID="Approved" UseContextLocale="false">
+
+  <Products>
+    <Product ID="draj_pen_011" UserTypeID="draj_sku" ParentID="Draj_School_Items">
+      <Name>draj_pen_011</Name>
+      <Values>
+        <Value AttributeID="draj_product_description">draj_product_description_added</Value>
+        <Value AttributeID="draj_Item_Number">012</Value>
+        <Value AttributeID="draj_product_M_date">27-jan-2023</Value>
+      </Values>
+      <DataContainers>
+        
+        <MultiDataContainer Type="draj_info_sufficiency">
+          <DataContainer ID="24022">
+            <Values>
+              <Value AttributeID="Data Sufficiency Messages">H4sIAAAAAAAAAIWQQWvDMAyF/4rQJZeW2IatzKwbhV526G23UYJXi9YlTYytFErIf59KydLCYKCLeO974qnHpvX0sUaLmSnasoyp9d2O34Nf+uSOVaSmUlrjDL1j93mJ4s5ov0a/Y07hu2OaiFtCtamEINzO8EQ5uz1dsR7rdudqkoP4K8iyGmOg+COkgLOrO9GMMmau9VwvQD9btbDqqYCQoWkZ9onEmoApM/CBQDLOwZN/hGVewCirjEyBw/a+2fSHf3sNr6eu5pAplm8/2BBePkcBAAA=</Value>
+              <Value AttributeID="Data Sufficiency Metric ID">draj_products</Value>
+              <Value AttributeID="Data Sufficiency Calculation Date">1671723132757</Value>
+              <Value AttributeID="Data Sufficiency Parent Metric ID">draj_info_sufficiency</Value>
+              <Value AttributeID="Data Sufficiency Score">0</Value>
+              <Value AttributeID="Data Sufficiency Metric Type">Simple</Value>
+            </Values>
+          </DataContainer>
+          <DataContainer ID="24014">
+            <Values>
+              <Value AttributeID="Data Sufficiency Metric ID">draj_info_sufficiency</Value>
+              <Value AttributeID="Data Sufficiency Calculation Date">1671723132757</Value>
+              <Value AttributeID="Data Sufficiency Score">33</Value>
+              <Value AttributeID="Data Sufficiency Metric Type">Sufficiency</Value>
+            </Values>
+          </DataContainer>
+          <DataContainer ID="24015">
+            <Values>
+              <Value AttributeID="Data Sufficiency Metric ID">CompletenessMetricID</Value>
+              <Value AttributeID="Data Sufficiency Calculation Date">1671723132757</Value>
+              <Value AttributeID="Data Sufficiency Parent Metric ID">draj_info_sufficiency</Value>
+              <Value AttributeID="Data Sufficiency Score">66</Value>
+              <Value AttributeID="Data Sufficiency Metric Type">Simple</Value>
+            </Values>
+          </DataContainer>
+        </MultiDataContainer>
+
+      </DataContainers>
+    </Product>
+  </Products>
+</STEP-ProductInformation>
