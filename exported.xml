@@ -11,7 +11,7 @@ Assets All
 
 Exported by database exporter.
 -->
-<STEP-ProductInformation ExportTime="2023-05-04 17:54:42" ExportContext="EN All All" ContextID="EN All All" WorkspaceID="Approved" UseContextLocale="false">
+<STEP-ProductInformation ExportTime="2023-05-05 17:24:09" ExportContext="EN All All" ContextID="EN All All" WorkspaceID="Approved" UseContextLocale="false">
 
   <Products>
     <Product ID="draj_pen_011" UserTypeID="draj_sku" ParentID="Draj_School_Items">
